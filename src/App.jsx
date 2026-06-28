@@ -20,7 +20,7 @@ export default function App() {
       <main>
         <section className="demo-hero" id="top">
           <p className="eyebrow">React component template</p>
-          <h1>Glass Auto-Collapse Navbar</h1>
+          <h1>Silky Navbar</h1>
           <p>
             A frosted glass navigation bar that collapses into a floating orb on downward scroll
             and expands again on upward scroll.

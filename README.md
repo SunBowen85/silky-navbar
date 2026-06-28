@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./docs/demo.gif" alt="Glass Auto-Collapse Navbar demo" width="820" />
+  <img src="./docs/demo.gif" alt="Silky Navbar demo" width="820" />
 </p>
 
-# Glass Auto-Collapse Navbar
+# Silky Navbar / 丝滑的导航栏
 
 A reusable React navigation bar with a frosted-glass look and scroll-aware behavior.
 
-一个可复用的 React 玻璃磨砂导航栏模板：向下滚动自动收缩成左上角圆形按钮，向上滚动自动展开，点击圆形按钮也可以展开。
+一个丝滑、可复用的 React 玻璃磨砂导航栏模板：向下滚动自动收缩成左上角圆形按钮，向上滚动自动展开，点击圆形按钮也可以展开。
 
 ## Features
 
